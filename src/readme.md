@@ -1,0 +1,1 @@
+In the program, a user input marks obtained in an exam, and we compare it with the minimum passing marks. We print an appropriate message on the screen based on whether the user passes the exam or not.
